@@ -270,7 +270,6 @@ There are three main Security Control categories
 
 Security professionals must be competent in a wide range of disciplines from network to application design and procurement of security resources.
 
-```
 - Participate In Risk Assessments
 - Source, Install And Configure Security Devices And Software
 - Set Up And Maintain Document Access Control
@@ -278,7 +277,6 @@ Security professionals must be competent in a wide range of disciplines from net
 - Manage Security-Related Incident Response And Reporting
 - Create And Test Business Continuity And Disaster Recovery Plans
 - Participate In Security Training And Education Programs
-```
 
 
 
@@ -897,7 +895,7 @@ Each account can be assigned permissions over files and other network resources.
 
 
 
-![image-20251224152055856](/home/zero/book_sec_writeup/Study-Guide/image/SYO-701+Study+Guide.md)
+![image-20251225102602417](./image/image-20251225102602417.png)
 
 **Location-Based Policies** - A User Or Device Can Have A Logical Network Location Identified By An Ip Address Which Can Be Used As An Account Restriction Mechanism.
 
@@ -2684,13 +2682,11 @@ Ntp Works Over Udp On Port 123.
 
 
 
-```
 NTP has Historically Lacked Any Sort Of Security Mechanism but There Are Moves to Create a Security Extension For the Protocol Called Network Time Security.
 
 Simple Network Management Protocol (SNMP) Security - This Is a Widely used Framework For Management And Monitoring And Consists of an SNMP Monitor and Agents. The agent is a Process (Software Or Firmware) running on a Switch, Router, Server or other SNMP-Compatible network device.
 
 This Agent Maintains a Database Called a Management Information Base (MIB) that Holds Statistics Relating to The activity Of the Device. The Agent Is also Capable Of Initiating a Trap Operation Where It Informs The Management System Of a Notable Event Like port failure.
-```
 
 
 
@@ -2714,7 +2710,6 @@ TLS 1.3 was approved in 2018 and the ability to perform downgrade attacks was mi
 
 Prior to TLS 1.3, a cipher suite would be written like this
 
-```
 ECDHE-RSA-AES128-GCM-SHA256
 
 This means that the server can use Elliptic Curve Diffie-Hellman Ephemeral mode for a session key agreement, RSA signatures, 128-bit AES-GCM (Galois Counter Mode) for symmetric bulk encryption and 256-bit SHA for HMAC functions.
@@ -2724,7 +2719,6 @@ TLS 1.3 uses simplified and shortened suites
 TLS_AES_256_GCM_SHA384
 
 Only ephemeral key agreement is supported in 1.3 and the signature type is supplied in the certificate so the cipher suite only lists the bulk encryption key strength and mode of operation (AES_256_GCM) plus the cryptographic hash algorithm (SHA384).
-```
 
 
 
