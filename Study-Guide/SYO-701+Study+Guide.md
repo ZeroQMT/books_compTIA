@@ -4,171 +4,172 @@
 
 #### Section 1 - Summarize Fundamental Security Concepts
 
-1.1 - Introduction To Information Security
-1.2 - Cybersecurity Framework
-1.3 - Gap Analysis
-1.4 - Control Objectives
-1.5 - Security Control Categories
-1.6 - Security Control Functional Types
-1.7 - Security Roles & Responsibilities
+- 1.1 - Introduction To Information Security
+- 1.2 - Cybersecurity Framework
+- 1.3 - Gap Analysis
+- 1.4 - Control Objectives
+- 1.5 - Security Control Categories
+- 1.6 - Security Control Functional Types
+- 1.7 - Security Roles & Responsibilities
 
 #### Section 2 - Explaining Threat Actors And Threat Vectors
 
-2.1 - Vulnerability, Threat And Risk
-2.2 - Attributes Of Threat Actors
-2.3 - Threat Actors
-2.4 - Attack Surface & Attack Vectors
-2.5 - Vulnerable Software & Network Vectors
-2.6 - Lure-Based & Message-Based Vectors
-2.7 - Third Party Risks
-2.8 - Intro To Social Engineering
+- 2.1 - Vulnerability, Threat And Risk
+- 2.2 - Attributes Of Threat Actors
+- 2.3 - Threat Actors
+- 2.4 - Attack Surface & Attack Vectors
+- 2.5 - Vulnerable Software & Network Vectors
+- 2.6 - Lure-Based & Message-Based Vectors
+- 2.7 - Third Party Risks
+- 2.8 - Intro To Social Engineering
 
 #### Section 3 - Explain Cryptographic Solutions
 
-3.1 - Introduction To Cryptography And Hashing
-3.2 - Encryption
-3.3 - Cryptographic Modes Of Operation & Cipher Suites
-3.4 - Cryptographic Use Cases
-3.5 - Longevity, Salting , Stretching & Other Types Of Cryptographic Technologies
-3.6 - Certificates, Pkis, Ras & Csrs
-3.7 - Digital Certificates
-3.8 - Key Management
-3.9 - Certificate Management
+- 3.1 - Introduction To Cryptography And Hashing
+- 3.2 - Encryption
+- 3.3 - Cryptographic Modes Of Operation & Cipher Suites
+- 3.4 - Cryptographic Use Cases
+- 3.5 - Longevity, Salting , Stretching & Other Types Of Cryptographic Technologies
+- 3.6 - Certificates, Pkis, Ras & Csrs
+- 3.7 - Digital Certificates
+- 3.8 - Key Management
+- 3.9 - Certificate Management
 
 #### Section 4 - Implement Identity and Access Management
 
-4.1 - Identity Access Management
-4.2 - Authentication Factors, Design And Attributes
-4.3 - Biometric Authentication
-4.4 - Password Concepts
-4.5 - Authorization Solutions - Part 1
-4.6 - Authorization Solutions - Part 2
-4.7 - Account Attributes & Access Policies
-4.8 - Privileged Access Management
-To protect privileged account credentials, it is important not to sign in on untrusted workstations. A secure administrative workstation (SAW) is a computer with a very low attack surface running the minimum possible apps.
-4.9 - Local, Network & Remote Authentication
-4.10 - Kerberos Authentication & Authorization
+- 4.1 - Identity Access Management
+- 4.2 - Authentication Factors, Design And Attributes
+- 4.3 - Biometric Authentication
+- 4.4 - Password Concepts
+- 4.5 - Authorization Solutions - Part 1
+- 4.6 - Authorization Solutions - Part 2
+- 4.7 - Account Attributes & Access Policies
+- 4.8 - Privileged Access Management
+- To protect privileged account credentials, it is important not to sign in on untrusted workstations. A secure administrative workstation (SAW) is a computer with a very low attack surface running the minimum possible apps.
+- 4.9 - Local, Network & Remote Authentication
+- 4.10 - Kerberos Authentication & Authorization
 
 #### Section 5 - Secure Enterprise Network Architecture
 
-5.1 - Secure Network Designs
-5.2 - Network Segmentation, Topology & DMZs
-5.3 - Device Placement & Attributes
-5.4 - Secure Switching And Routing
-5.5 - Routing & Switching Protocols
-5.6 - Using Secure Protocols
-5.7 - Attack Surface
-5.8 - Firewalls
-5.9 - Firewall Implementation
-5.10 - Remote Access Architecture
+- 5.1 - Secure Network Designs
+- 5.2 - Network Segmentation, Topology & DMZs
+- 5.3 - Device Placement & Attributes
+- 5.4 - Secure Switching And Routing
+- 5.5 - Routing & Switching Protocols
+- 5.6 - Using Secure Protocols
+- 5.7 - Attack Surface
+- 5.8 - Firewalls
+- 5.9 - Firewall Implementation
+- 5.10 - Remote Access Architecture
 
 #### Section 6 - Secure Cloud Network Architecture
 
-6.1 - Cloud Deployment Models
-6.2 - Responsibility Matrix
-6.3 - Cloud Security Solutions
-6.4 - Infrastructure As Code Concepts
-6.5 - Zero Trust
-6.6 - Embedded Systems
-6.7 - Industrial Control Systems & Internet Of Things
+- 6.1 - Cloud Deployment Models
+- 6.2 - Responsibility Matrix
+- 6.3 - Cloud Security Solutions
+- 6.4 - Infrastructure As Code Concepts
+- 6.5 - Zero Trust
+- 6.6 - Embedded Systems
+- 6.7 - Industrial Control Systems & Internet Of Things
 
 #### Section 7 - Explain Resiliency and Site Security Concepts
 
-7.1 - Backup Strategies & Storage
-7.2 - Implementing Redundancy Strategies
-7.3 - Cyber Security Resilient Strategies
-7.4 - Physical Security Controls
-7.5 - physical host security controls
+- 7.1 - Backup Strategies & Storage
+- 7.2 - Implementing Redundancy Strategies
+- 7.3 - Cyber Security Resilient Strategies
+- 7.4 - Physical Security Controls
+- 7.5 - physical host security controls
 
 #### Section 8 - Explain Vulnerability Management
 
-8.1 - Vulnerability Discoverer
-8.2 - Weak host & Network configurations
-8.3 - Evaluation Scope
-8.4 - Overflows, Resource Exhaustion, Memory Leaks & Race Conditions 
-8.5 - Sideloading, Rooting & Jailbreaking 
-8.6 - Threat Research Sources 
-8.7 - Threat Intelligence Providers 
-8.8 - Threat Data Feeds
-8.9 - Vulnerability Response & Remediation 
+- 8.1 - Vulnerability Discoverer
+- 8.2 - Weak host & Network configurations
+- 8.3 - Evaluation Scope
+- 8.4 - Overflows, Resource Exhaustion, Memory Leaks & Race Conditions 
+- 8.5 - Sideloading, Rooting & Jailbreaking 
+- 8.6 - Threat Research Sources 
+- 8.7 - Threat Intelligence Providers 
+- 8.8 - Threat Data Feeds
+- 8.9 - Vulnerability Response & Remediation 
 
 #### Section 9 - Evaluate Network Security Capabilities
 
-8.1 - Bench Marks & Secure Configuration Guides 
-8.2 - Hardening Concepts 
-8.3 - Wi-Fi Authentication Methods 
-8.4 - Network Access Control 
-8.5 - Network Security Monitoring 
-8.6 - Web Filtering 
+- 8.1 - Bench Marks & Secure Configuration Guides 
+- 8.2 - Hardening Concepts 
+- 8.3 - Wi-Fi Authentication Methods 
+- 8.4 - Network Access Control 
+- 8.5 - Network Security Monitoring 
+- 8.6 - Web Filtering 
 
 #### Section 10 - Assess Endpoint Security Capabilities
 
-10.1 - Endpoint Security 
-10.2 - Segmentation 
-10.3 - Mobile Device Management
-10.4 - Secure Mobile Device Connections 
+- 10.1 - Endpoint Security 
+- 10.2 - Segmentation 
+- 10.3 - Mobile Device Management
+- 10.4 - Secure Mobile Device Connections 
 
 #### Section 11 - Enhance Application Security Capabilities
 
-11.1 - Dns Security, Directory Services & Snmp 
-11.2 - Secure Application Operations Protocols 
-11.3 - File Transfer, Email & Video Services 
-11.4 - Email Security 
-11.5 - Secure Coding Techniques 
+- 11.1 - Dns Security, Directory Services & Snmp 
+- 11.2 - Secure Application Operations Protocols 
+- 11.3 - File Transfer, Email & Video Services 
+- 11.4 - Email Security 
+- 11.5 - Secure Coding Techniques 
 
 #### Section 12 - Explain Incident Response and Monitoring Concepts
 
-12.1 - Incident Response Process 
-12.2 - Cyber Incident Response Team
-12.3 - Incident Response Plan 
-12.4 - Incident Response Exercises, Recovery And Retention Policy 
-12.5 - Incident Identification 
-12.6 - Digital Forensics Documentation 
-12.7 - Digital Forensics Evidence Acquisition 
-12.8 - Data Sources 
+- 12.1 - Incident Response Process 
+  12.2 - Cyber Incident Response Team
+  12.3 - Incident Response Plan 
+  12.4 - Incident Response Exercises, Recovery And Retention Policy 
+  12.5 - Incident Identification 
+  12.6 - Digital Forensics Documentation 
+  12.7 - Digital Forensics Evidence Acquisition 
+  12.8 - Data Sources 
 
-#### Section 13 - Section 13 - Analyze Indicators of Malicious Activity
+- #### Section 13 - Section 13 - Analyze Indicators of Malicious Activity
 
-13.1 - Malware Classification
-13.2 - Computer Viruses
-13.3 - Computer Worms & Fileless Malware
-13.4 - Spyware, Keyloggers, Rootkits, Backdoors, Ransomware & Logic Bombs
-13.5 - Malware Indicators & Process Analysis
-13.6 - Password Attacks
-13.7 - Tactics, Techniques & Procedures
-13.8 - Privilege Escalation & Error Handling
-13.9 - Uniform Resource Locator Analysis & Percent Encoding
-13.10 - Api & Replay Attacks, Cross-Site Request Forgery, Clickjacking & Ssl Strip Attacks
-13.11 - Injection Attacks
+
+- 13.1 - Malware Classification
+- 13.2 - Computer Viruses
+- 13.3 - Computer Worms & Fileless Malware
+- 13.4 - Spyware, Keyloggers, Rootkits, Backdoors, Ransomware & Logic Bombs
+- 13.5 - Malware Indicators & Process Analysis
+- 13.6 - Password Attacks
+- 13.7 - Tactics, Techniques & Procedures
+- 13.8 - Privilege Escalation & Error Handling
+- 13.9 - Uniform Resource Locator Analysis & Percent Encoding
+- 13.10 - Api & Replay Attacks, Cross-Site Request Forgery, Clickjacking & Ssl Strip Attacks
+- 13.11 - Injection Attacks
 
 #### Section 14 - Summarize Security Governance Concepts
 
-14.1 - Regulations, Standards & Legislation
-14.2 - ISO and Cloud Frameworks 
-14.3 - Governance Structure 
-14.4 - Governance Documents 
-14.5 - Change Management 
-14.6 - Configuration Management 
-14.7 - Scripting, Automation & Orchestration 
+- 14.1 - Regulations, Standards & Legislation
+- 14.2 - ISO and Cloud Frameworks 
+- 14.3 - Governance Structure 
+- 14.4 - Governance Documents 
+- 14.5 - Change Management 
+- 14.6 - Configuration Management 
+- 14.7 - Scripting, Automation & Orchestration 
 
 #### Section 15 - Explain Risk Management
 
-15.1 - Risk management process 
-15.2 - Risk Controls 
-15.3 - Business Impact Analysis 
-15.4 - Third-Party Risk Management & Security Agreements 
-15.5 - Audit & Assurance 
-15.6 - PenTest Attack Life Cycle 
+- 15.1 - Risk management process 
+- 15.2 - Risk Controls 
+- 15.3 - Business Impact Analysis 
+- 15.4 - Third-Party Risk Management & Security Agreements 
+- 15.5 - Audit & Assurance 
+- 15.6 - PenTest Attack Life Cycle 
 
 #### Section 16 - Summarize Data Protection and Compliance Concepts
 
-16.1 - Privacy & Sensitive Data Concepts 
-16.2 - Data Sovereignty, Privacy Breaches & Data Sharing 
-16.3 - Privacy And Data Controls 
-16.4 - Privacy Principles 
-16.5 - Compliance Monitoring 
-16.6 - Education, Training & Awareness 
-16.7 - Personnel Policies 
+- 16.1 - Privacy & Sensitive Data Concepts 
+- 16.2 - Data Sovereignty, Privacy Breaches & Data Sharing 
+- 16.3 - Privacy And Data Controls 
+- 16.4 - Privacy Principles 
+- 16.5 - Compliance Monitoring 
+- 16.6 - Education, Training & Awareness 
+- 16.7 - Personnel Policies 
 
 ---
 
@@ -242,7 +243,7 @@ These express the minimum standards for a given environment
 - **Compensating** - Substituting a recommended baseline control with a similar control
 - **Supplementing** - Adding to the baseline recommendations
 
-![image-20251224114600914](/home/zero/.config/Typora/typora-user-images/image-20251224114600914.png)
+![image-20251224114600914](./image/image-20251224114600914.png)
 
 
 
@@ -426,7 +427,7 @@ Social engineering relies heavily on human emotions such as fear, curiosity, exc
 **Whaling** - A phishing attack targeted at senior executives of an organization
 **Tailgating** - The attacker without access authorization closely follows an authorized person in a reserved area
 
-![image-20251224125129454](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224125129454.png)
+![image-20251224125129454](./image/image-20251224125129454.png)
 
 **Vishing** - Relies on creating a sense of excitement or panic in the target using a phone call
 
@@ -483,7 +484,7 @@ Cryptography is a secure communication Technique that allows only the Sender and
 
 
 
-![image-20251224141649737](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224141649737.png)
+![image-20251224141649737](./image/image-20251224141649737.png)
 
 
 
@@ -512,7 +513,7 @@ The letters are simply written as columns and the rows are concatenated.
 
 **Symmetric Encryption** - here both encryption and decryption are performed by the same secret key and can be used for confidentiality. It is very fast and is used or bulk encryption of large amounts of data but can be vulnerable if the key is stolen.
 
-![image-20251224142132212](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224142132212.png)
+![image-20251224142132212](./image/image-20251224142132212.png)
 
 **There are two types** - Stream ciphers & block ciphers
 
@@ -522,7 +523,7 @@ The letters are simply written as columns and the rows are concatenated.
 
 **Asymmetric Encryption** - Here both encryption and decryption are performed by two different but related public and private keys in a key pair. Each key is capable of reversing the operation of its pair and they are linked in such a way as to make it impossible to derive one from the other.
 
-![image-20251224142249892](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224142249892.png)
+![image-20251224142249892](./image/image-20251224142249892.png)
 
 - Can be used to Prove Identity as the holder of the Private Key Cannot be Impersonated by anyone Else.
 - The Major Drawback of this Encryption is that it Involves Substantial Computing Resources.
@@ -606,7 +607,7 @@ When You Want To Authenticate Yourself To Others, you create a Signature and Sig
 
 
 
-![image-20251224144146412](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224144146412.png)
+![image-20251224144146412](./image/image-20251224144146412.png)
 
 
 
@@ -914,7 +915,7 @@ The Geographical Location Of A User Or Device Can Be Calculated Using A Geograph
 
 **Account lockout & Disablement** - if account misuse is detected or suspected, the account can be manually disabled by setting an account property. an account lockout means that login is prevented for a period.
 
-![image-20251224152356292](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224152356292.png)
+![image-20251224152356292](./image/image-20251224152356292.png)
 
 
 
@@ -993,7 +994,7 @@ DNS works at layer 7 of the OSI model.
 
 
 
-![image-20251224152729441](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224152729441.png)
+![image-20251224152729441](./image/image-20251224152729441.png)
 
 
 
@@ -1044,7 +1045,7 @@ The selection of effective controls is governed by the principle of defense in d
 - **Detective Controls** - Might be placed within the perimeter to monitor traffic exchanged between hosts within the segment. This provides alerting of malicious traffic that has evaded perimeter controls.
 - **Preventive, Detective & Corrective Controls** - Might be installed on hosts as a layer of endpoint protection in addition to the network infrastructure controls.
 
-![image-20251224191024950](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224191024950.png)
+![image-20251224191024950](./image/image-20251224191024950.png)
 
 Attributes determine the precise way in which a device can be placed within the network topology
 
@@ -1060,7 +1061,7 @@ A device that is deployed inline becomes part of the cable path. No changes in t
 
 **Test Access Point (TAP) -** This is a box with ports for incoming and outgoing network cabling and an indutor or optical splitter that physically copies the signal from the cabling to a monitor port. Unlike SPAN every single frame is copied or received.
 
-![image-20251224191147525](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224191147525.png)
+![image-20251224191147525](./image/image-20251224191147525.png)
 
 **Fail-Open versus Fail-CLOSED**
 
@@ -1129,7 +1130,7 @@ At Layer 3, Nodes Are Identified By Ip Addresses.
 
 Normally A Device That Needs To Send A Packet To An Ip Address But Does Not Know The Receiving Device’s Mac Address Broadcasts An Arp Request And The Device With The Matching Ip Responds With An Arp Reply.
 
-![image-20251224194606270](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224194606270.png)
+![image-20251224194606270](./image/image-20251224194606270.png)
 
 
 
@@ -1233,7 +1234,7 @@ iptables works with chains which apply to the different types of traffic such as
 
 the rules in this example will drop any traffic from the specific host 10.1.0.192 and allow icmp echo requests (pings), dns and http/https traffic either from the local subnet (10.1.0.0/24) or from any network (0.0.0.0/0)
 
-![image-20251224200812321](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224200812321.png)
+![image-20251224200812321](./image/image-20251224200812321.png)
 
 
 
@@ -1294,11 +1295,11 @@ ESP attaches three fields to the packet: a header, a trailer (providing padding 
 
 - **Transport Mode** - This Mode Is Used To Secure Communications Between Hosts On A Private Network. Here The Ip Header For Each Packet Is Not Encrypted, Just The Payload Data. If Ah Is Used In This Mode, It Can Provide Integrity For The Ip Header.
 
-![image-20251224202211214](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224202211214.png)
+![image-20251224202211214](./image/image-20251224202211214.png)
 
 - **Tunnel Mode -** This Mode Is Used For Communications Between DNS Gateways Across An Unsecure Network And Is Also Referred To As Router Implementation. With Esp, The Whole Ip Packet (Header And Payload) Is Encrypted And Encapsulated As A Datagram With A New Ip Header.
 
-![image-20251224202239862](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224202239862.png)
+![image-20251224202239862](./image/image-20251224202239862.png)
 
 **Internet Key Exchange (IKE)** - ipsec's encryption and hashing functions depend on a shared secret. the secret must be communicated to both hosts and the hosts must confirm one another's identity (mutual authentication) otherwise the connection is vulnerable to MITM and spoofing attacks. the IKE protocol handles authentication and key exchange referred to as security associations (SA).
 
@@ -1368,7 +1369,7 @@ In contrast, operating system security is shared between the CSP and the custome
 
 A **responsibility matrix** sets out these duties in a clear table.
 
-![image-20251224202643744](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224202643744.png)
+![image-20251224202643744](./image/image-20251224202643744.png)
 
 
 
@@ -1528,7 +1529,7 @@ This is a security framework requiring all subjects, assets and workflows to be 
 
 - **Data Plane** - Used for communication between software components.
 
-![image-20251224203723735](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224203723735.png)
+![image-20251224203723735](./image/image-20251224203723735.png)
 
 
 
@@ -2146,7 +2147,7 @@ There Are Various Ways That A Threat Data Feed Can Be Implemented.
 
 **Structured Threat Information Expression (Stix)** - Describes Standard Terminology For locs And Ways Of Indicating Relationships Between Them.
 
-![image-20251224221309299](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224221309299.png)
+![image-20251224221309299](./image/image-20251224221309299.png)
 
 **Trusted automated exchange of indicator information (taxii)** - Protocol provides a means for transmitting cti data between servers and clients.
 
@@ -2395,7 +2396,7 @@ In contrast, an agentless NAC approach uses port-based network access control or
 
 **Taps & port mirrors** - Typically the packet capture sensor is placed inside a firewall or close to an important server and the idea is to identify malicious traffic that has managed to get past the firewall. depending on network size and resources, one or just a few sensors will be deployed to monitor key assets and network paths.
 
-![image-20251224222440962](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224222440962.png)
+![image-20251224222440962](./image/image-20251224222440962.png)
 
 **Network-based intrusion prevention systems (IPS)** - An ips provides an active response to any network threat.
 
@@ -2784,7 +2785,7 @@ SPF works by verifying the sender's IP address against a list of authorized send
 
 
 
-![image-20251224231408839](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224231408839.png)
+![image-20251224231408839](./image/image-20251224231408839.png)
 
 
 
@@ -2924,7 +2925,7 @@ A key tool for threat research is a framework to use to describe the stages of a
 
 
 
-![image-20251224232230642](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224232230642.png)
+![image-20251224232230642](./image/image-20251224232230642.png)
 
 
 
@@ -2938,7 +2939,7 @@ event (e) by exploring the relationships between four core features: adversary, 
 
 Each event may also be described by meta-features such as date/time, kill chain phase etc.
 
-![image-20251224232305497](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224232305497.png)
+![image-20251224232305497](./image/image-20251224232305497.png)
 
 
 
@@ -3462,7 +3463,7 @@ Data submitted via a URL is delimited by the ? character which follows the resou
 
 
 
-![image-20251224235246198](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224235246198.png)
+![image-20251224235246198](./image/image-20251224235246198.png)
 
 
 
@@ -3472,7 +3473,7 @@ Reserved Characters: **/?#[] @!$ &'()*+,; =**
 
 There are also unsafe characters which cannot be used in a URL. Control characters such as null string termination, carriage return, line feed, end of file and tab are unsafe.
 
-![image-20251224235351043](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224235351043.png)
+![image-20251224235351043](./image/image-20251224235351043.png)
 
 
 
@@ -3510,7 +3511,7 @@ In order to work, the attacker must convince the victim to start a session with 
 
 
 
-![image-20251224235522329](/home/zero/book_sec_writeup/Study-Guide/image/image-20251224235522329.png)
+![image-20251224235522329](./image/image-20251224235522329.png)
 
 
 
@@ -3878,7 +3879,7 @@ It's important to realize that the value of an asset isn't just about its materi
 
 
 
-![image-20251225002210754](/home/zero/book_sec_writeup/Study-Guide/image/image-20251225002210754.png)
+![image-20251225002210754](./image/image-20251225002210754.png)
 
 
 
@@ -3900,7 +3901,7 @@ Control risk is a measure of how much less effective a security control has beco
 
 
 
-![image-20251225002707080](/home/zero/book_sec_writeup/Study-Guide/image/image-20251225002707080.png)
+![image-20251225002707080](./image/image-20251225002707080.png)
 
 
 
@@ -3922,7 +3923,7 @@ Where BIA identifies risks, the business continuity plan (BCP) identifies contro
 
 
 
-![image-20251225002754261](/home/zero/book_sec_writeup/Study-Guide/image/image-20251225002754261.png)
+![image-20251225002754261](./image/image-20251225002754261.png)
 
 
 
